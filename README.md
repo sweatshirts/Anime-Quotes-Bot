@@ -29,7 +29,7 @@ The contents of the file should be similar to the following:
 ### 💬 Provide the quotes
 In order for quotes to work, you'll need to *provide* some.
 
-``vim quotes.txt``
+``vim quote.txt``
 
 Remember: It's one quote per line!
 
