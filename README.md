@@ -38,7 +38,7 @@ Execute one simple command: ``npm . ``<br/>
 Yes, that's it!
 
 ### 🎮 Bot commands
-- ``/quote`` - Replies with a random quote you've written inside the quotes.txt file
+- ``/quote`` - Replies with a random quote you've written inside the quote.txt file
 - ``/uwuball`` - A Magic8Ball clone, replies with standard 8Ball answers. So other than a silly name, it's nothing special!
 - ``/ping`` - The bot will reply with "pong! im alive, i think..." and show it's current ping in milliseconds
 
@@ -47,4 +47,4 @@ Yes, that's it!
 
 There's currently a known bug in the following file: ``\events\ready.js``
  - The code included SHOULD update bot's status every 15 minutes, but it doesnt seem to be working
- - If you think you can fix it, fork the repository, fix the bug and PR. I appreciate you in advance 
+ - If you think you can fix it, fork the repository, fix the bug and PR. I appreciate you in advance! 
