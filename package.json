@@ -1,0 +1,19 @@
+{
+  "name": "Animu-Quotes-Bot",
+  "version": "1.0.0",
+  "description": "Bot!",
+  "main": "index.js",
+  "author": "sweatshirts",
+  "license": "GNU General Public License v3.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-sync-commands-v14": "^1.0.0",
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
