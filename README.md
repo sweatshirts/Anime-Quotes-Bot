@@ -47,4 +47,4 @@ Yes, that's it!
 
 There's currently a known bug in the following file: ``\events\ready.js``
  - The code included SHOULD update bot's status every 15 minutes, but it doesnt seem to be working
- - If you think you can fix it, fork the repository, fix the bug and PR. I appreciate you in advance! 
+ - If you think you can fix it, fork the repository, fix the bug and PR. I appreciate you in advance! 💖
